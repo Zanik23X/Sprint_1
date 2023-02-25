@@ -11,7 +11,8 @@
 }
 .navbar{
     color: white;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .hedBitnew{
     /* margin-top: 5px;
@@ -19,6 +20,7 @@
     padding-left: 15px; */
     width: 40%;
     color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .block-sylok{
     width: 60%;
@@ -29,10 +31,12 @@
     margin-left: 10px;
     padding-top: 15px;
     color: antiquewhite;
+    text-decoration: none;
 }
 .ssylkyHome{
     color: antiquewhite;
     margin-left: 900px;
+    text-decoration: none;
 }
 
 
@@ -43,11 +47,14 @@
     margin-top: 20px;
     padding: 20px;
     
+    
 }
 .p{
     width: 1200px;
     margin-left: 15px;
-    font-family: 'Courier New', Courier, monospace;
+    /* font-family: 'Courier New', Courier, monospace; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
 }
 .text{
     height: 230px;
@@ -55,9 +62,11 @@
 }
 .latNew{
     margin-left: 620px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 .postText{
     width: 195px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     
     /* margin-bottom: 60px; */
     
@@ -69,5 +78,7 @@
 }
 .read_more{
     color: white;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: none;
 }
